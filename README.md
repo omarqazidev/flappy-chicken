@@ -1,4 +1,4 @@
-# Flappy Chikcen
+# Flappy Chicken
 ![Flappy-Chicken-1](https://github.com/omarqazidev/flappy-chicken/assets/28197002/c8de93c2-06ee-40eb-b76b-2d8c05655125)
 
 # How to Play:
